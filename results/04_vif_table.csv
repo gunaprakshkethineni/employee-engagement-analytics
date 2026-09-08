@@ -1,0 +1,27 @@
+data_label,predictor,vif,is_construct,verdict
+SYNTHETIC DATA,leadership,2.98,True,acceptable
+SYNTHETIC DATA,credibility,2.92,True,acceptable
+SYNTHETIC DATA,wellbeing,2.48,True,acceptable
+SYNTHETIC DATA,fairness,2.47,True,acceptable
+SYNTHETIC DATA,pride,2.45,True,acceptable
+SYNTHETIC DATA,camaraderie,2.41,True,acceptable
+SYNTHETIC DATA,development,2.41,True,acceptable
+SYNTHETIC DATA,respect,2.3,True,acceptable
+SYNTHETIC DATA,location_Hamburg,2.12,False,acceptable
+SYNTHETIC DATA,location_Pune,2.05,False,acceptable
+SYNTHETIC DATA,location_Chennai,2.04,False,acceptable
+SYNTHETIC DATA,location_Remote,1.78,False,acceptable
+SYNTHETIC DATA,location_Rostock,1.78,False,acceptable
+SYNTHETIC DATA,tenure_band_5-10 years,1.53,False,acceptable
+SYNTHETIC DATA,tenure_band_3-5 years,1.49,False,acceptable
+SYNTHETIC DATA,department_Operations,1.47,False,acceptable
+SYNTHETIC DATA,tenure_band_10+ years,1.43,False,acceptable
+SYNTHETIC DATA,department_Service,1.38,False,acceptable
+SYNTHETIC DATA,tenure_band_<1 year,1.36,False,acceptable
+SYNTHETIC DATA,department_Supply Chain,1.32,False,acceptable
+SYNTHETIC DATA,department_Sales,1.3,False,acceptable
+SYNTHETIC DATA,department_Finance,1.18,False,acceptable
+SYNTHETIC DATA,department_HR,1.16,False,acceptable
+SYNTHETIC DATA,role_level_Manager,1.07,False,acceptable
+SYNTHETIC DATA,role_level_Team lead,1.07,False,acceptable
+SYNTHETIC DATA,role_level_Senior manager,1.04,False,acceptable
