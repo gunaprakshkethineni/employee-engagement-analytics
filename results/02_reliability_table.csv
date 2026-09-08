@@ -1,0 +1,10 @@
+data_label,construct,n_items_start,n_items_retained,dropped_items,alpha_before,alpha_after,mean_item_total_corr,n_complete_cases_used
+SYNTHETIC DATA,credibility,8,8,none,0.867,0.867,0.62,4339
+SYNTHETIC DATA,respect,8,8,none,0.85,0.85,0.59,4227
+SYNTHETIC DATA,fairness,8,8,none,0.882,0.882,0.648,4075
+SYNTHETIC DATA,pride,8,8,none,0.893,0.893,0.671,4026
+SYNTHETIC DATA,camaraderie,8,8,none,0.88,0.88,0.644,3908
+SYNTHETIC DATA,leadership,8,8,none,0.878,0.878,0.64,3765
+SYNTHETIC DATA,development,8,7,devl_04,0.869,0.888,0.673,3687
+SYNTHETIC DATA,wellbeing,8,8,none,0.879,0.879,0.643,3526
+SYNTHETIC DATA,satisfaction (outcome),4,4,none,0.872,0.872,0.727,4123
