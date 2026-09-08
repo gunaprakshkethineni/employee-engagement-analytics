@@ -1,0 +1,9 @@
+data_label,construct,n_items,modal_factor,n_items_on_modal_factor,share_agreeing,max_abs_loading
+SYNTHETIC DATA,credibility,8,F1,7,0.88,0.612
+SYNTHETIC DATA,respect,8,F7,8,1.0,0.632
+SYNTHETIC DATA,fairness,8,F6,8,1.0,0.622
+SYNTHETIC DATA,pride,8,F2,8,1.0,0.763
+SYNTHETIC DATA,camaraderie,8,F5,8,1.0,0.651
+SYNTHETIC DATA,leadership,8,F1,7,0.88,0.597
+SYNTHETIC DATA,development,7,F3,7,1.0,0.76
+SYNTHETIC DATA,wellbeing,8,F4,8,1.0,0.634
