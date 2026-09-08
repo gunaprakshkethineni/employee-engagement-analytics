@@ -1,0 +1,9 @@
+data_label,construct,icc1,icc2,mean_group_size,aggregation_defensible
+SYNTHETIC DATA,credibility,0.1127,0.9625,202.1,True
+SYNTHETIC DATA,respect,0.11,0.9615,202.1,True
+SYNTHETIC DATA,fairness,0.1172,0.9641,202.1,True
+SYNTHETIC DATA,pride,0.1076,0.9606,202.1,True
+SYNTHETIC DATA,camaraderie,0.1064,0.9601,202.1,True
+SYNTHETIC DATA,leadership,0.1147,0.9632,202.1,True
+SYNTHETIC DATA,development,0.1115,0.9621,202.1,True
+SYNTHETIC DATA,wellbeing,0.1136,0.9628,202.1,True
