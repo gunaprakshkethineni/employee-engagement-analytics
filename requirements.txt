@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+statsmodels
+pingouin
+factor_analyzer
+matplotlib
+seaborn
+pyyaml
+pytest
+jupyter
+pyarrow
+scikit-learn<1.8
