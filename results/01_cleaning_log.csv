@@ -1,0 +1,8 @@
+data_label,step,affected,unit,pct_affected,rows_remaining,note
+SYNTHETIC DATA,Drop duplicate respondent_id rows,12,rows,0.24,5000,Identical resubmissions; keeping the first occurrence.
+SYNTHETIC DATA,Standardise demographic category text,60,cells,1.2,5000,Whitespace and upper-case variants collapsed onto the majority spelling.
+SYNTHETIC DATA,Set out-of-scale answers to missing,69,values,0.02,5000,"Values outside 1-5 found in: {'fair_01': 42, 'well_02': 27}. Recoded to missing, not to a number."
+SYNTHETIC DATA,Drop straight-lining respondents,150,rows,3.0,4850,"Within-person SD across 68 items below 0.3. Detected on RAW answers, before reverse-coding."
+SYNTHETIC DATA,Reverse-code negatively worded items,28363,values,8.6,4850,"Items flipped: cred_04, resp_06, fair_03, camr_08, lead_07, well_05. Formula (1+5)-answer so high = favourable for every item."
+SYNTHETIC DATA,Drop respondents missing >30% of items,0,rows,0.0,4850,Too little data to score eight constructs for these respondents.
+SYNTHETIC DATA,Missing-data policy: available-item scoring (NOT listwise),8796,values,2.67,4850,"Listwise deletion across all 68 items would keep only 792 respondents (16.3%). Missingness is thinly spread, so scores are the mean of ANSWERED items where >=50% of a construct's items were answered."
