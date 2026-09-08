@@ -1,0 +1,69 @@
+data_label,item,intended_construct,reverse_worded,scale,question_text
+SYNTHETIC DATA,cred_01,credibility,False,1-5 Likert,Management keeps me informed about important issues.
+SYNTHETIC DATA,cred_02,credibility,False,1-5 Likert,Management's actions match its words.
+SYNTHETIC DATA,cred_03,credibility,False,1-5 Likert,Management is honest about the state of the business.
+SYNTHETIC DATA,cred_04,credibility,True,1-5 Likert,Management hides bad news from staff.
+SYNTHETIC DATA,cred_05,credibility,False,1-5 Likert,I can ask management a direct question and get a straight answer.
+SYNTHETIC DATA,cred_06,credibility,False,1-5 Likert,Management delivers on the promises it makes.
+SYNTHETIC DATA,cred_07,credibility,False,1-5 Likert,Communication from senior leaders is clear.
+SYNTHETIC DATA,cred_08,credibility,False,1-5 Likert,I trust the information I receive from management.
+SYNTHETIC DATA,resp_01,respect,False,1-5 Likert,I am treated as a full member of the team regardless of my position.
+SYNTHETIC DATA,resp_02,respect,False,1-5 Likert,I am given the equipment and resources to do my job well.
+SYNTHETIC DATA,resp_03,respect,False,1-5 Likert,My manager recognises good work.
+SYNTHETIC DATA,resp_04,respect,False,1-5 Likert,My contribution is valued here.
+SYNTHETIC DATA,resp_05,respect,False,1-5 Likert,I am involved in decisions that affect my work.
+SYNTHETIC DATA,resp_06,respect,True,1-5 Likert,People here are treated as a number rather than a person.
+SYNTHETIC DATA,resp_07,respect,False,1-5 Likert,Training is available when I need it to do my job.
+SYNTHETIC DATA,resp_08,respect,False,1-5 Likert,My manager takes an interest in me as a person.
+SYNTHETIC DATA,fair_01,fairness,False,1-5 Likert,People here are paid fairly for the work they do.
+SYNTHETIC DATA,fair_02,fairness,False,1-5 Likert,Promotions go to those who best deserve them.
+SYNTHETIC DATA,fair_03,fairness,True,1-5 Likert,Favouritism decides who gets ahead here.
+SYNTHETIC DATA,fair_04,fairness,False,1-5 Likert,Everyone has a fair chance at recognition.
+SYNTHETIC DATA,fair_05,fairness,False,1-5 Likert,People are treated fairly regardless of their background.
+SYNTHETIC DATA,fair_06,fairness,False,1-5 Likert,Performance is judged on objective criteria.
+SYNTHETIC DATA,fair_07,fairness,False,1-5 Likert,If I were treated unfairly I could raise it and be heard.
+SYNTHETIC DATA,fair_08,fairness,False,1-5 Likert,Workload is shared fairly across the team.
+SYNTHETIC DATA,prid_01,pride,False,1-5 Likert,I am proud to tell others I work here.
+SYNTHETIC DATA,prid_02,pride,False,1-5 Likert,My work has meaning; it is not 'just a job'.
+SYNTHETIC DATA,prid_03,pride,False,1-5 Likert,I am proud of what we accomplish as a team.
+SYNTHETIC DATA,prid_04,pride,False,1-5 Likert,I feel I make a difference here.
+SYNTHETIC DATA,prid_05,pride,False,1-5 Likert,This organisation contributes something positive.
+SYNTHETIC DATA,prid_06,pride,False,1-5 Likert,I would recommend this company as a place to work.
+SYNTHETIC DATA,prid_07,pride,False,1-5 Likert,I am proud of the quality of what we produce.
+SYNTHETIC DATA,prid_08,pride,False,1-5 Likert,People here are willing to give extra to get the job done.
+SYNTHETIC DATA,camr_01,camaraderie,False,1-5 Likert,People here care about each other.
+SYNTHETIC DATA,camr_02,camaraderie,False,1-5 Likert,I can be myself at work.
+SYNTHETIC DATA,camr_03,camaraderie,False,1-5 Likert,There is a sense of 'family' or team in my group.
+SYNTHETIC DATA,camr_04,camaraderie,False,1-5 Likert,We celebrate successes together.
+SYNTHETIC DATA,camr_05,camaraderie,False,1-5 Likert,New colleagues are made to feel welcome.
+SYNTHETIC DATA,camr_06,camaraderie,False,1-5 Likert,People cooperate rather than compete destructively.
+SYNTHETIC DATA,camr_07,camaraderie,False,1-5 Likert,I can rely on my colleagues when I need help.
+SYNTHETIC DATA,camr_08,camaraderie,True,1-5 Likert,People here keep to themselves and do not help each other.
+SYNTHETIC DATA,lead_01,leadership,False,1-5 Likert,My manager sets a clear direction for the team.
+SYNTHETIC DATA,lead_02,leadership,False,1-5 Likert,My manager gives me useful feedback.
+SYNTHETIC DATA,lead_03,leadership,False,1-5 Likert,Senior leadership has a clear vision for the company.
+SYNTHETIC DATA,lead_04,leadership,False,1-5 Likert,My manager is competent at running the team.
+SYNTHETIC DATA,lead_05,leadership,False,1-5 Likert,Decisions are made at the right speed here.
+SYNTHETIC DATA,lead_06,leadership,False,1-5 Likert,My manager supports me when things go wrong.
+SYNTHETIC DATA,lead_07,leadership,True,1-5 Likert,Leadership here avoids difficult decisions.
+SYNTHETIC DATA,lead_08,leadership,False,1-5 Likert,I have confidence in the leadership of this company.
+SYNTHETIC DATA,devl_01,development,False,1-5 Likert,I have opportunities to learn and grow here.
+SYNTHETIC DATA,devl_02,development,False,1-5 Likert,I can see a career path for myself here.
+SYNTHETIC DATA,devl_03,development,False,1-5 Likert,"My skills are developed, not just used."
+SYNTHETIC DATA,devl_04,development,False,1-5 Likert,I am given challenging work that stretches me.
+SYNTHETIC DATA,devl_05,development,False,1-5 Likert,My manager discusses my development with me.
+SYNTHETIC DATA,devl_06,development,False,1-5 Likert,Internal moves and promotions are genuinely possible.
+SYNTHETIC DATA,devl_07,development,False,1-5 Likert,The training I receive is of good quality.
+SYNTHETIC DATA,devl_08,development,False,1-5 Likert,I am encouraged to take on new responsibilities.
+SYNTHETIC DATA,well_01,wellbeing,False,1-5 Likert,I can balance my work and personal life.
+SYNTHETIC DATA,well_02,wellbeing,False,1-5 Likert,My workload is manageable.
+SYNTHETIC DATA,well_03,wellbeing,False,1-5 Likert,I can take time off when I need it.
+SYNTHETIC DATA,well_04,wellbeing,False,1-5 Likert,This is a psychologically healthy place to work.
+SYNTHETIC DATA,well_05,wellbeing,True,1-5 Likert,I often feel burnt out by my work.
+SYNTHETIC DATA,well_06,wellbeing,False,1-5 Likert,Stress here is at a reasonable level.
+SYNTHETIC DATA,well_07,wellbeing,False,1-5 Likert,People are encouraged to switch off outside working hours.
+SYNTHETIC DATA,well_08,wellbeing,False,1-5 Likert,I feel safe raising a concern without fear of consequences.
+SYNTHETIC DATA,sat_01,satisfaction,False,1-5 Likert,"Overall, I am satisfied working here."
+SYNTHETIC DATA,sat_02,satisfaction,False,1-5 Likert,"Taking everything into account, this is a great place to work."
+SYNTHETIC DATA,sat_03,satisfaction,False,1-5 Likert,I rarely think about leaving this organisation.
+SYNTHETIC DATA,sat_04,satisfaction,False,1-5 Likert,I would still choose to join this company if deciding today.
