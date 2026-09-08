@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Intermediate data. The raw survey and every file in results/ ARE committed,
+# because the whole point of the repo is that someone can check the numbers.
+# Processed parquet files are rebuilt by running the pipeline.
+data/processed/
+
