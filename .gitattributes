@@ -1,0 +1,7 @@
+# Normalise line endings so the repo looks the same on Windows, Mac and Linux.
+* text=auto
+
+# Keep the notebook and figures out of GitHub's language statistics, so the
+# repo is reported as Python rather than as Jupyter Notebook.
+*.ipynb linguist-documentation
+results/** linguist-documentation
