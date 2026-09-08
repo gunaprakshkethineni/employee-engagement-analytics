@@ -1,0 +1,9 @@
+data_label,factor,mean_abs_loading_reverse_items,max_abs_loading_normal_items,is_reverse_wording_method_factor
+SYNTHETIC DATA,F1,0.18,0.612,False
+SYNTHETIC DATA,F2,0.017,0.763,False
+SYNTHETIC DATA,F3,0.026,0.76,False
+SYNTHETIC DATA,F4,0.103,0.634,False
+SYNTHETIC DATA,F5,0.1,0.651,False
+SYNTHETIC DATA,F6,0.105,0.622,False
+SYNTHETIC DATA,F7,0.098,0.632,False
+SYNTHETIC DATA,F8,0.458,0.228,True
